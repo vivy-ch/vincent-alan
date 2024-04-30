@@ -34,5 +34,3 @@ print('v1_test5')
 ```
 
 ```python
-
-```

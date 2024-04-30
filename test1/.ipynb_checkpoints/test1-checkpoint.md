@@ -29,5 +29,12 @@ print('test4')
 ```
 
 ```{code-cell} ipython3
+<<<<<<< HEAD
+=======
+print('v2_test51')
+```
+
+```{code-cell} ipython3
+>>>>>>> v2
 
 ```
